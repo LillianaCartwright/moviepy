@@ -1,5 +1,5 @@
 /*
-    Copyright (C) 2011 Raphters authors,
+!!# Copyright (C) 2011 Raphters authors,
     
     This file is part of Raphters.
     
@@ -52,3 +52,4 @@ char *get_server_name() {
 char *get_server_port() {
     return getenv("SERVER_PORT");
 }
+ 
